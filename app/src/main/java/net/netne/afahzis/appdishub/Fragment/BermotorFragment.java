@@ -15,6 +15,7 @@ import net.netne.afahzis.appdishub.R;
 
 /**
  * A simple {@link Fragment} subclass.
+ * Reshape by Iwan 3/1/2018
  */
 public class BermotorFragment extends Fragment implements View.OnClickListener {
 

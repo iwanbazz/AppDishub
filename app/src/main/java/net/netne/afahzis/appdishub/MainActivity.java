@@ -32,6 +32,9 @@ import net.netne.afahzis.appdishub.Fragment.ProfileFragment;
 import net.netne.afahzis.appdishub.Fragment.SaranFragment;
 import net.netne.afahzis.appdishub.Fragment.SecretaryFragment;
 
+/**
+ * Reshape by Iwan 3/1/2018
+ */
 public class MainActivity extends AppCompatActivity
         implements NavigationView.OnNavigationItemSelectedListener {
 

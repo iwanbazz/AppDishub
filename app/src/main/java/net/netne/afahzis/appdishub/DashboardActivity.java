@@ -13,6 +13,9 @@ import android.widget.TextView;
 
 import net.netne.afahzis.appdishub.Server.AppVar;
 
+/**
+ * Reshape by Iwan 3/1/2018
+ */
 public class DashboardActivity extends AppCompatActivity implements View.OnClickListener {
     LinearLayout ll_lihat_data, ll_lihat_grafik, ll_ubah_pass, ll_logout,ll_input_data;
     Toolbar toolbar;

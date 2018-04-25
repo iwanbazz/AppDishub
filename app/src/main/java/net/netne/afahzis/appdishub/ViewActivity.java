@@ -29,6 +29,9 @@ import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
 
+/**
+ * Reshape by Iwan 3/1/2018
+ */
 public class ViewActivity extends AppCompatActivity {
 
     Toolbar toolbar;

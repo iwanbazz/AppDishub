@@ -6,6 +6,9 @@ import android.support.v7.widget.Toolbar;
 import android.view.MenuItem;
 import android.widget.TextView;
 
+/**
+ * Reshape by Iwan 3/1/2018
+ */
 public class AboutActivity extends AppCompatActivity {
 
     Toolbar toolbar;

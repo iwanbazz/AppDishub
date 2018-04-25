@@ -13,11 +13,12 @@ import android.widget.ImageView;
 import android.widget.LinearLayout;
 import android.widget.RelativeLayout;
 import android.widget.TextView;
-
 import net.netne.afahzis.appdishub.R;
-
 import java.lang.reflect.Field;
 
+/**
+ * Reshape by Iwan 3/1/2018
+ */
 public class GambaranActivity extends AppCompatActivity {
 
     Toolbar toolbar;

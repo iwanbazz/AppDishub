@@ -10,6 +10,9 @@ import android.widget.Toolbar;
 
 import net.netne.afahzis.appdishub.Server.AppVar;
 
+/**
+ * Reshape by Iwan 3/1/2018
+ */
 public class LaporanLoginActivity extends AppCompatActivity implements View.OnClickListener{
 
     String level;
